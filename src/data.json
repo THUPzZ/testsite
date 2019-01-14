@@ -1,0 +1,28 @@
+{
+    "PersonalData":{
+        "name":"theerapased",
+        "lastname":"meemui",
+        "birthDate":"8 Aug,1995",
+        "age":23,
+        "height":185,
+        "weight":60,
+        "BloodType":"B",
+        "nationality":"thai",
+        "religion":"Buddha"
+    },
+    "contact":{
+        "facebook":"https://web.facebook.com/theeraprased.meemui",
+        "instagram":"#",
+        "tell":"0933282268",
+        "email1":"thuppee4@gmail.com",
+        "email2":"tub.meemui@gmail.com",
+        "address":"184 หมู่12 ต.เสาธงชัย กันทรลักษ์, Sisaket 33110, Thailand"
+    },
+    "education":[{  "name":"Bungmaluwittaya School",
+                    "longTime":"2008-2014"},
+                {   "name":"Suranaree University of Technology",
+                    "longTime":"2014-2018",
+                    "branch":"Bachelor of engineering(Computer Engineering)"}]
+
+
+}
